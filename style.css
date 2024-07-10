@@ -34,7 +34,11 @@ p {
     margin-bottom: 24px;
 }
 
-
+.description{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
 
 .btn {
     border-radius: 8px;
