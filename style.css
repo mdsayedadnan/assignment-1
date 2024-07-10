@@ -153,32 +153,54 @@ p {
 /* target section */
 .html-section{
     background-color:#FF4C1E0D ;
-  padding: 30px;
+    height: 300px;
+    padding: 40px;
+    text-align: start;
 
 }
 .css-section{
     background-color: #004CE80D;
+    height: 300px;
+    padding: 40px;
+    text-align: start;
 }
 
 .js-section{
     background-color: #FFDF000D;
+    height: 300px;
+    padding: 40px;
+    text-align: start;
 
 }
 .skills{
     display: flex;
     align-items: center;
-    justify-content:space-between;
-    
+    justify-content: space-between;
+    margin-top: 44px;
 }
+.btn-title{
+   margin-top: 24px;
+  border: none;
+  border-bottom: 2px solid black;
+  background-color: none;
+  font-size: 23px;
+  color: black;
+  font-style: bold;
+}
+.skill-title{
+   font-size: 30px;
+   margin: 15px 0;
+}
+
 .footer-contain{
 display: flex;
 gap: 100px;
-
+padding: 16px;
 align-items: center;
-justify-content:space-between;
+justify-content:space-around;
+background-color: #0D132108;
 }
 .name-contant{
     color:#0D1321;
     font-size: 20px;
-    margin: 2px solod red;
 }
