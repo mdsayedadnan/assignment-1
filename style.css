@@ -202,5 +202,10 @@ background-color: #0D132108;
 }
 .name-contant{
     color:#0D1321;
-    font-size: 20px;
+    font-size: 25px;
+}
+.footer-link{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
 }
