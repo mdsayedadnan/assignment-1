@@ -153,5 +153,32 @@ p {
 /* target section */
 .html-section{
     background-color:#FF4C1E0D ;
-    margin: 2px red;
+  padding: 30px;
+
+}
+.css-section{
+    background-color: #004CE80D;
+}
+
+.js-section{
+    background-color: #FFDF000D;
+
+}
+.skills{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+.footer-contain{
+display: flex;
+gap: 100px;
+
+align-items: center;
+justify-content:space-between;
+}
+.name-contant{
+    color:#0D1321;
+    font-size: 20px;
+    margin: 2px solod red;
 }
