@@ -169,6 +169,7 @@ p {
     align-items: center;
     justify-content: space-between;
     margin-top: 44px;
+    gap: 20px;
     
 }
 
