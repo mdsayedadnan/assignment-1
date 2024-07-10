@@ -143,7 +143,6 @@ p {
 /* target section */
 .html-section {
     background-color: #FF4C1E0D;
-    height: 300px;
     padding: 40px;
     text-align: start;
     margin-right: 10px;
@@ -151,7 +150,6 @@ p {
 
 .css-section {
     background-color: #004CE80D;
-    height: 300px;
     padding: 40px;
     text-align: start;
     margin-right: 10px;
@@ -159,7 +157,6 @@ p {
 
 .js-section {
     background-color: #FFDF000D;
-    height: 300px;
     padding: 40px;
     text-align: start;
 }
@@ -181,6 +178,7 @@ p {
     font-size: 23px;
     color: black;
     font-weight: bold;
+    margin: 20px;
 }
 
 .skill-title {
@@ -247,7 +245,7 @@ p {
 .input-line {
     background-color: #FFFFFF;
     border-radius: 8px;
-    width: 804px;
+    width: 604px;
     margin-top: 15PX;
     padding: 20px;
 
